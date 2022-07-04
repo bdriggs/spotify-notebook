@@ -15,7 +15,7 @@ A Jupyter notebook for visualizing a user's top artist / track data in Spotify.
 ![piechart](https://github.com/bdriggs/spotify-notebook/blob/main/assets/piechart.png?raw=true)
 
 
-Data time range can be configured by setting the `t_range` variable. Acceptable values include:
+Time range can be configured by setting the `t_range` variable. Acceptable values include:
 
 - `short_term`
 - `medium_term`
