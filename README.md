@@ -33,8 +33,6 @@ Track Attributes:
 - Valence
 - Tempo
 
-Data can be sorted by individual columns by setting the `sort_attribute` variable.
-
 ## Getting Started
 
 1. Sign up for a free [Spotfiy Developer account](https://developer.spotify.com/).
