@@ -39,6 +39,6 @@ Track Attributes:
 2. Create a custom Spotify app via the App Dashboard, adding `http://localhost:8080` as a valid redirect URI.
 3. Rename `setup.env` to `.env`.
 4. Populate the missng `.env` values from the custom Spotify app.
-5. [OPTIONAL] Enable virtual environment.
+5. [OPTIONAL] Enable Python virtual environment.
 6. Install requirements: `pip install -r requirements.txt`.
 7. Run the notebook: `jupyter notebook`.
