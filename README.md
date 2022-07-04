@@ -40,5 +40,5 @@ Track Attributes:
 3. Rename `setup.env` to `.env`.
 4. Populate the missng `.env` values from the custom Spotify app.
 5. [OPTIONAL] Enable virtual environment.
-6. Install requirements (`pip install -r requirements.txt`).
-7. Run the notebook: `jupyter notebook`
+6. Install requirements: `pip install -r requirements.txt`.
+7. Run the notebook: `jupyter notebook`.
