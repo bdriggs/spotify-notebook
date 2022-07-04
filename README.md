@@ -1,6 +1,6 @@
 # spotify-notebook
 
-A Jupyter notebook for visualizing user top artist / track data in Spotify.
+A Jupyter notebook for visualizing a user's top artist / track data in Spotify.
 
 Data time range can be configured by setting the `t_range` variable. Acceptable values include:
 
