@@ -43,3 +43,5 @@ Track Attributes:
 6. [OPTIONAL] Enable Python virtual environment.
 7. Install requirements: `pip install -r requirements.txt`.
 8. Run the notebook: `jupyter notebook`.
+
+*** OAuth credentials are stored in .cache. Remove this file to recreate credentials. ***
