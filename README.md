@@ -37,8 +37,9 @@ Track Attributes:
 
 1. Sign up for a free [Spotify Developer account](https://developer.spotify.com/).
 2. Create a custom Spotify app via the App Dashboard, adding `http://localhost:8080` as a valid redirect URI.
-3. Rename `sample.env` to `.env`.
-4. Populate the missing `.env` values from the custom Spotify app.
-5. [OPTIONAL] Enable Python virtual environment.
-6. Install requirements: `pip install -r requirements.txt`.
-7. Run the notebook: `jupyter notebook`.
+3. Add your Spotify as a valid user under the 'Users and Access' section of the custom Spotify app. 
+4. Rename `sample.env` to `.env`.
+5. Populate the missing `.env` values from the custom Spotify app.
+6. [OPTIONAL] Enable Python virtual environment.
+7. Install requirements: `pip install -r requirements.txt`.
+8. Run the notebook: `jupyter notebook`.
